@@ -1,6 +1,6 @@
-# dwv-react
+# dicom-viewer
 
-Medical viewer using [DWV](https://github.com/ivmartel/dwv) (DICOM Web Viewer) and [React](https://reactjs.org/).
+Medical viewer using [DWV](https://github.com/ivmartel/dwv) (DICOM Web Viewer) and [CHNsPart](https://chnspart.com/).
 
 All coding/implementation contributions and comments are welcome. Releases should be ready for deployment otherwise download the code and install dependencies with a `yarn` or `npm` `install`.
 
